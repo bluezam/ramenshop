@@ -1,7 +1,5 @@
 # ramenshop
 
-template 1 for a friend
-
-this is just a template! stop being nosey david and nico
+template website for a friend
 
 https://ramentemplate.netlify.com
